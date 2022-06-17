@@ -63,6 +63,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 
 ## Fisher Information Matrix
 - The Spectrum of the Fisher Information Matrix of a Single-Hidden-Layer Neural Network ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/18bb68e2b38e4a8ce7cf4f6b2625768c-Abstract.html))
+- Evaluating neuronal codes for inference using Fisher information ([NeurIPS, 2010](https://papers.nips.cc/paper/2010/hash/08b255a5d42b89b0585260b6f2360bdd-Abstract.html))
 
 ## Natural Gradients
 - Sinkhorn Natural Gradient for Generative Models ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/122e27d57ae8ecb37f3f1da67abb33cb-Abstract.html))
@@ -78,6 +79,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/d3157f2f0212a80a5d042c127522a2d5-Abstract.html))
 - Projected Natural Actor-Critic ([NeurIPS, 2013](https://papers.nips.cc/paper/2013/hash/dd77279f7d325eec933f05b1672f6a1f-Abstract.html))
 - Stochastic Gradient Riemannian Langevin Dynamics on the Probability Simplex ([NeurIPS, 2013](https://papers.nips.cc/paper/2013/hash/309928d4b100a5d75adff48a9bfc1ddb-Abstract.html))
+- Natural Policy Gradient Methods with Parameter-based Exploration for Control Tasks ([NeurIPS, 2010](https://papers.nips.cc/paper/2010/hash/44c4c17332cace2124a1a836d9fc4b6f-Abstract.html))
 - Stochastic search using the natural gradient ([ICML, 2009](https://dl.acm.org/doi/abs/10.1145/1553374.1553522?casa_token=fo1cfbAvRXUAAAAA:2AOY3ZmMcvl_qDx9hWVil95hF7P6QrjZu5VJWo-6EBWoYkMLqc0oa9qcl0Jy-I09BSSME-h1Q9_72g))
 - Rprop using the natural gradient ([Trends and Applications in Constructive Approximation, 2005](https://link.springer.com/chapter/10.1007/3-7643-7356-3_19))
 - Natural gradient descent for on-line learning ([PRL, 1998](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.5461))

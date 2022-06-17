@@ -17,6 +17,7 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Natural Gradient](#natural-gradient)
   - [alpha-Divergence](#alpha-divergence)
   - [Exponential and Mixture Families](#exponential-and-mixture-families)
+  - [Inequalities](#inequalities)
 - [Library](#library)
 - [Lectures and Tutorials](#lectures-and-tutorials)
   - [PDF](#pdf)
@@ -68,6 +69,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Exponential and Mixture Families
 - Geometry of deformed exponential families: Invariant, dually-flat and conformal geometries ([Physica A, 2012](https://www.sciencedirect.com/science/article/pii/S037843711200310X?casa_token=5QWUwzlQnr0AAAAA:bWGXoEe3_Tw7fi-1AMPgCW0o7dGx2ZAyof3A_mG3Mwqp00MmxDeiXA5rLq-vejdfboyLam-vYto))
 - Geometry of q-Exponential Family of Probability Distributions ([Entropy, 2011](https://www.mdpi.com/1099-4300/13/6/1170))
+
+## Inequalities
+- Cramér-Rao lower bound and information geometry ([Connected at Infinity II., 2013](https://link.springer.com/chapter/10.1007/978-93-86279-56-9_2))
 
 # Library
 - [NNGeometry](https://github.com/tfjgeorge/nngeometry)

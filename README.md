@@ -29,7 +29,8 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Survey
 
 ## Information Geometry for Neural Networks
-- Information geometry of the EM and em algorithms for neural networks ([Neural networks, 1995](https://www.sciencedirect.com/science/article/abs/pii/0893608095000038))
+- Information geometry of the EM and em algorithms for neural networks ([Neural Networks, 1995](https://www.sciencedirect.com/science/article/abs/pii/0893608095000038))
+- Information geometry of Boltzmann machines ([IEEE Trans. Neural Networks, 1992](https://ieeexplore.ieee.org/abstract/document/125867))
 
 ## Natural Gradient
 

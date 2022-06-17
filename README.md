@@ -37,6 +37,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 
 ## Survey
 - Fields of Application of Information Geometry ([Information Geometry, 2017](https://link.springer.com/chapter/10.1007/978-3-319-56478-4_6))
+- Information geometry in optimization, machine learning and statistical inference ([Front. Electr. Electron. Eng. China, 2010](https://link.springer.com/article/10.1007/s11460-010-0101-3))
 
 ## Information Geometry for Neural Networks
 - Gradient systems in view of information geometry ([Physica D: Nonlinear Phenomena, 1995](https://www.sciencedirect.com/journal/physica-d-nonlinear-phenomena))

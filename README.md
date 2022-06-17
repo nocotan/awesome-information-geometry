@@ -15,6 +15,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - [Lectures and Tutorials](#lectures-and-tutorials)
 
 # Books
+- Differential Geometrical Foundations of Information Geometry ([WorldScientific, 2022](https://www.worldscientific.com/worldscibooks/10.1142/9268))
 - Progress in Information Geometry ([Springer, 2021](https://link.springer.com/book/10.1007/978-3-030-65459-7))
 - Computational Information Geometry ([Springer, 2017](https://link.springer.com/book/10.1007/978-3-319-47058-0))
 - Information Geometry ([Springer, 2017](https://www.springer.com/journal/41884))

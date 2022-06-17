@@ -59,6 +59,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry approach to parameter estimation in hidden Markov model ([Bernoulli, 2022](https://projecteuclid.org/journals/bernoulli/volume-28/issue-1/Information-geometry-approach-to-parameter-estimation-in-hidden-Markov-model/10.3150/21-BEJ1344.short))
 
 ## Natural Gradient
+- Ngboost: Natural gradient boosting for probabilistic prediction ([ICML, 2020](http://proceedings.mlr.press/v119/duan20a.html?ref=https://githubhelp.com))
 - Natural gradient works efficiently in learning ([Neural computation, 1998](https://ieeexplore.ieee.org/abstract/document/6790500))
 
 ## alpha-Divergence

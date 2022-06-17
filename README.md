@@ -45,7 +45,6 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Information Geometry for Neural Networks
 - Principles of Riemannian Geometry in Neural Networks ([NeurIPS, 2017](https://papers.nips.cc/paper/2017/hash/0ebcc77dc72360d0eb8e9504c78d38bd-Abstract.html))
 - f-GANs in an Information Geometric Nutshell ([NeurIPS, 2017](https://papers.nips.cc/paper/2017/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html))
-- 
 - Gradient systems in view of information geometry ([Physica D: Nonlinear Phenomena, 1995](https://www.sciencedirect.com/journal/physica-d-nonlinear-phenomena))
 - Information geometry of the EM and em algorithms for neural networks ([Neural Networks, 1995](https://www.sciencedirect.com/science/article/abs/pii/0893608095000038))
 - Information geometry of Boltzmann machines ([IEEE Trans. Neural Networks, 1992](https://ieeexplore.ieee.org/abstract/document/125867))
@@ -77,6 +76,8 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Fast Approximate Natural Gradient Descent in a Kronecker Factored Eigenbasis ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/48000647b315f6f00f913caa757a70b3-Abstract.html))
 - Exact natural gradient in deep linear networks and its application to the nonlinear case ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/7f018eb7b301a66658931cb8a93fd6e8-Abstract.html))
 - SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/d3157f2f0212a80a5d042c127522a2d5-Abstract.html))
+- Projected Natural Actor-Critic ([NeurIPS, 2013](https://papers.nips.cc/paper/2013/hash/dd77279f7d325eec933f05b1672f6a1f-Abstract.html))
+- Stochastic Gradient Riemannian Langevin Dynamics on the Probability Simplex ([NeurIPS, 2013](https://papers.nips.cc/paper/2013/hash/309928d4b100a5d75adff48a9bfc1ddb-Abstract.html))
 - Stochastic search using the natural gradient ([ICML, 2009](https://dl.acm.org/doi/abs/10.1145/1553374.1553522?casa_token=fo1cfbAvRXUAAAAA:2AOY3ZmMcvl_qDx9hWVil95hF7P6QrjZu5VJWo-6EBWoYkMLqc0oa9qcl0Jy-I09BSSME-h1Q9_72g))
 - Rprop using the natural gradient ([Trends and Applications in Constructive Approximation, 2005](https://link.springer.com/chapter/10.1007/3-7643-7356-3_19))
 - Natural gradient descent for on-line learning ([PRL, 1998](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.5461))

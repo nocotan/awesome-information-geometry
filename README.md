@@ -15,7 +15,8 @@ This repo is a collection of AWESOME things about information geometry, includin
 - [Lectures and Tutorials](#lectures-and-tutorials)
 
 # Books
-- Methods of information geometry ([American Mathematical Soc., 2000](https://books.google.co.jp/books?hl=ja&lr=lang_ja|lang_en&id=vc2FWSo7wLUC&oi=fnd&pg=PR7&dq=information+geometry&ots=4IruGy-bL_&sig=NvKR3SUcwEEsaXcPn1MgWGPvTfg#v=onepage&q=information%20geometry&f=false))
+- Information Geometry and Its Applications ([Springer, 2016](https://link.springer.com/book/10.1007/978-4-431-55978-8))
+- Methods of Information Geometry ([American Mathematical Soc., 2000](https://bookstore.ams.org/mmono-191))
 
 # Papers
 

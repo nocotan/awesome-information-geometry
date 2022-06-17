@@ -80,6 +80,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Projected Natural Actor-Critic ([NeurIPS, 2013](https://papers.nips.cc/paper/2013/hash/dd77279f7d325eec933f05b1672f6a1f-Abstract.html))
 - Stochastic Gradient Riemannian Langevin Dynamics on the Probability Simplex ([NeurIPS, 2013](https://papers.nips.cc/paper/2013/hash/309928d4b100a5d75adff48a9bfc1ddb-Abstract.html))
 - Natural Policy Gradient Methods with Parameter-based Exploration for Control Tasks ([NeurIPS, 2010](https://papers.nips.cc/paper/2010/hash/44c4c17332cace2124a1a836d9fc4b6f-Abstract.html))
+- A Generalized Natural Actor-Critic Algorithm ([NeurIPS, 2009](https://papers.nips.cc/paper/2009/hash/acf4b89d3d503d8252c9c4ba75ddbf6d-Abstract.html))
 - Stochastic search using the natural gradient ([ICML, 2009](https://dl.acm.org/doi/abs/10.1145/1553374.1553522?casa_token=fo1cfbAvRXUAAAAA:2AOY3ZmMcvl_qDx9hWVil95hF7P6QrjZu5VJWo-6EBWoYkMLqc0oa9qcl0Jy-I09BSSME-h1Q9_72g))
 - Rprop using the natural gradient ([Trends and Applications in Constructive Approximation, 2005](https://link.springer.com/chapter/10.1007/3-7643-7356-3_19))
 - Natural gradient descent for on-line learning ([PRL, 1998](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.5461))

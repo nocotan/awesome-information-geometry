@@ -28,7 +28,12 @@ This repo is a collection of AWESOME things about information geometry, includin
 
 ## Survey
 
+## Information Geometry for Neural Networks
+- Information geometry of the EM and em algorithms for neural networks ([Neural networks, 1995](https://www.sciencedirect.com/science/article/abs/pii/0893608095000038))
+
 ## Natural Gradient
+
+## EM
 
 # Library
 - [NNGeometry](https://github.com/tfjgeorge/nngeometry)

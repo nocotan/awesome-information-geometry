@@ -22,6 +22,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - [Lectures and Tutorials](#lectures-and-tutorials)
   - [PDF](#pdf)
   - [YouTube](#youtube)
+- [Conferences](#conferences)
 - [Workshops](#workshops)
 
 # Books
@@ -94,6 +95,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Computational Information Geometry with Frank Nielsen ([YouTube](https://www.youtube.com/watch?v=X3cBhBA1nNw))
 - Information Geometry and its Application by Melvin Leok
  ([YouTube](https://www.youtube.com/watch?v=FlyJJIQo-g4&list=PLHZhjPByiV3L94AeJ9FcK1yrnRDOt3Vit))
+ 
+# Conferences
+- International Conference on Information Geometry for Data Science ([IG4DS](https://www.dsf.tuhh.de/index.php/ig4ds/))
  
 # Workshops
 - Deep Learning through Information Geometry ([at NeurIPS 2020](https://sites.google.com/view/dl-info-neurips20))

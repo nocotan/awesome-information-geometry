@@ -45,6 +45,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Information Geometry for Neural Networks
 - Principles of Riemannian Geometry in Neural Networks ([NeurIPS, 2017](https://papers.nips.cc/paper/2017/hash/0ebcc77dc72360d0eb8e9504c78d38bd-Abstract.html))
 - f-GANs in an Information Geometric Nutshell ([NeurIPS, 2017](https://papers.nips.cc/paper/2017/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html))
+- Geometrical Singularities in the Neuromanifold of Multilayer Perceptrons ([NeurIPS, 2001](https://papers.nips.cc/paper/2001/hash/65d2ea03425887a717c435081cfc5dbb-Abstract.html))
 - Gradient systems in view of information geometry ([Physica D: Nonlinear Phenomena, 1995](https://www.sciencedirect.com/journal/physica-d-nonlinear-phenomena))
 - Information geometry of the EM and em algorithms for neural networks ([Neural Networks, 1995](https://www.sciencedirect.com/science/article/abs/pii/0893608095000038))
 - Information geometry of Boltzmann machines ([IEEE Trans. Neural Networks, 1992](https://ieeexplore.ieee.org/abstract/document/125867))
@@ -86,6 +87,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Topmoumoute Online Natural Gradient Algorithm ([NeurIPS, 2007](https://papers.nips.cc/paper/2007/hash/9f61408e3afb633e50cdf1b20de6f466-Abstract.html))
 - Natural Actor-Critic for Road Traffic Optimisation ([NeurIPS, 2006](https://papers.nips.cc/paper/2006/hash/78bc62d08a9a0b9b0b9c0ad339ef82d3-Abstract.html))
 - Rprop using the natural gradient ([Trends and Applications in Constructive Approximation, 2005](https://link.springer.com/chapter/10.1007/3-7643-7356-3_19))
+- A Natural Policy Gradient ([NeurIPS, 2001](https://papers.nips.cc/paper/2001/hash/4b86abe48d358ecf194c56c69108433e-Abstract.html))
 - Natural gradient descent for on-line learning ([PRL, 1998](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.5461))
 - Natural gradient works efficiently in learning ([Neural computation, 1998](https://ieeexplore.ieee.org/abstract/document/6790500))
 

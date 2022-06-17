@@ -119,6 +119,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 
 ## Inequalities
 - Cramér-Rao lower bound and information geometry ([Connected at Infinity II., 2013](https://link.springer.com/chapter/10.1007/978-93-86279-56-9_2))
+- Inequalities for Tsallis relative entropy and generalized skew information ([Linear Multilinear Algebra, 2011](https://www.tandfonline.com/doi/abs/10.1080/03081087.2011.574624))
 
 # Library
 - [NNGeometry](https://github.com/tfjgeorge/nngeometry)

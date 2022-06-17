@@ -13,6 +13,8 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Natural Gradient](#natural-gradient)
 - [Library](#library)
 - [Lectures and Tutorials](#lectures-and-tutorials)
+  - [PDF](#pdf)
+  - [YouTube](#youtube)
 
 # Books
 - Differential Geometrical Foundations of Information Geometry ([WorldScientific, 2022](https://www.worldscientific.com/worldscibooks/10.1142/9268))
@@ -44,6 +46,10 @@ This repo is a collection of AWESOME things about information geometry, includin
 - [InformationGeometry.jl](https://github.com/RafaelArutjunjan/InformationGeometry.jl)
 - [geodesical_skew_divergence](https://github.com/nocotan/geodesical_skew_divergence)
 # Lectures and Tutorials
+## PDF
+- An elementary introduction to information geometry ([Entropy, 2022](https://www.mdpi.com/1099-4300/22/10/1100))
+
+## YouTube
 - Information Geometry and Its Applications: Survey by Shun-Ichi Amari ([YouTube](https://www.youtube.com/watch?v=2Uy6xCpvnj0))
 - Information Geometry by Microsoft Research ([YouTube](https://www.youtube.com/watch?v=zmUMBLEHhZg))
 - Nihat Ay : Information Geometric structures in Cognitive Systems Research ([YouTube](https://www.youtube.com/watch?v=m3QbaIdJ-xs&t=65s))

@@ -18,6 +18,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Progress in Information Geometry ([Springer, 2021](https://link.springer.com/book/10.1007/978-3-030-65459-7))
 - Information Geometry ([Springer, 2017](https://www.springer.com/journal/41884))
 - Information Geometry and Its Applications ([Springer, 2016](https://link.springer.com/book/10.1007/978-4-431-55978-8))
+- Matrix Information Geometry ([Springer, 2013](https://link.springer.com/book/10.1007/978-3-642-30232-9))
 - Methods of Information Geometry ([American Mathematical Soc., 2000](https://bookstore.ams.org/mmono-191))
 
 # Papers

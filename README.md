@@ -17,8 +17,8 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Fisher Information Matrix](#fisher-information-matrix)
   - [Fisher Kernel](#fisher-kernel)
   - [Natural Gradients](#natural-gradients)
-  - [U-Boost](#u-boost)
   - [alpha-Divergence](#alpha-divergence)
+  - [Bregman Divergence](#bregman-divergence)
   - [Exponential and Mixture Families](#exponential-and-mixture-families)
   - [Inequalities](#inequalities)
 - [Library](#library)
@@ -100,9 +100,6 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Natural gradient descent for on-line learning ([PRL, 1998](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.5461))
 - Natural gradient works efficiently in learning ([Neural Computation, 1998](https://ieeexplore.ieee.org/abstract/document/6790500))
 
-## U-Boost
-- Information geometry of U-Boost and Bregman divergence ([Neural Computation, 2004](https://ieeexplore.ieee.org/document/6789609))
-
 ## alpha-Divergence
 - Log-determinant divergences revisited: Alpha-beta and gamma log-det divergences ([Entropy, 2015](https://www.mdpi.com/1099-4300/17/5/2988))
 - On the chi square and higher-order chi distances for approximating f-divergences ([IEEE Signal Processing Letters, 2013](https://ieeexplore.ieee.org/abstract/document/6654274))
@@ -111,6 +108,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry of divergence functions ([Bull. Pol. Acad. Sci. Tech. Sci., 2010](https://www.infona.pl/resource/bwmeta1.element.baztech-article-BPG8-0020-0019))
 - $\alpha $-Divergence Is Unique, Belonging to Both $f$-Divergence and Bregman Divergence Classes ([IEEE Trans. Information Theory, 2009](https://ieeexplore.ieee.org/abstract/document/5290302))
 - Integration of Stochastic Models by Minimizing $\alpha$-Divergence ([Neural Computation](https://ieeexplore.ieee.org/abstract/document/6795912))
+
+## Bregman Divergence
+- Information geometry of U-Boost and Bregman divergence ([Neural Computation, 2004](https://ieeexplore.ieee.org/document/6789609))
 
 ## Exponential and Mixture Families
 - Information geometry of positive measures and positive-definite matrices: decomposable dually flat structure ([Entropy, 2014](https://www.mdpi.com/1099-4300/16/4/2131))

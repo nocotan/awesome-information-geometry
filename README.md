@@ -40,6 +40,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry of Boltzmann machines ([IEEE Trans. Neural Networks, 1992](https://ieeexplore.ieee.org/abstract/document/125867))
 
 ## Information Geometry for MCMC
+- Information geometry approach to parameter estimation in Markov chains ([ISIT, 2014](https://ieeexplore.ieee.org/abstract/document/6875001))
 
 ## Natural Gradient
 - Natural gradient works efficiently in learning ([Neural computation, 1998](https://ieeexplore.ieee.org/abstract/document/6790500))

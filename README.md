@@ -68,6 +68,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - $\alpha $-Divergence Is Unique, Belonging to Both $f$-Divergence and Bregman Divergence Classes ([IEEE Trans. Information Theory, 2009](https://ieeexplore.ieee.org/abstract/document/5290302))
 
 ## Exponential and Mixture Families
+- Information geometry of positive measures and positive-definite matrices: decomposable dually flat structure ([Entropy, 2014](https://www.mdpi.com/1099-4300/16/4/2131))
 - Geometry of deformed exponential families: Invariant, dually-flat and conformal geometries ([Physica A, 2012](https://www.sciencedirect.com/science/article/pii/S037843711200310X?casa_token=5QWUwzlQnr0AAAAA:bWGXoEe3_Tw7fi-1AMPgCW0o7dGx2ZAyof3A_mG3Mwqp00MmxDeiXA5rLq-vejdfboyLam-vYto))
 - Geometry of q-Exponential Family of Probability Distributions ([Entropy, 2011](https://www.mdpi.com/1099-4300/13/6/1170))
 

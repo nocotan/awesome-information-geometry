@@ -46,7 +46,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry of the EM and em algorithms for neural networks ([Neural Networks, 1995](https://www.sciencedirect.com/science/article/abs/pii/0893608095000038))
 - Information geometry of Boltzmann machines ([IEEE Trans. Neural Networks, 1992](https://ieeexplore.ieee.org/abstract/document/125867))
 
-## Information Geometry for Clastering
+## Information Geometry for Clustering
 - On Clustering Histograms with k-Means by Using Mixed α-Divergences ([Entropy, 2014](https://www.mdpi.com/1099-4300/16/6/3273))
 
 ## Information Geometry for MCMC
@@ -96,6 +96,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information Geometry and its Application by Melvin Leok
  ([YouTube](https://www.youtube.com/watch?v=FlyJJIQo-g4&list=PLHZhjPByiV3L94AeJ9FcK1yrnRDOt3Vit))
  
+# Journals
+- Information Geometry ([Journal home](https://www.springer.com/journal/41884))
+
 # Conferences
 - International Conference on Information Geometry for Data Science ([IG4DS](https://www.dsf.tuhh.de/index.php/ig4ds/))
  

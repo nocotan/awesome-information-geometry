@@ -22,6 +22,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - [Lectures and Tutorials](#lectures-and-tutorials)
   - [PDF](#pdf)
   - [YouTube](#youtube)
+- [Workshops](#workshops)
 
 # Books
 - Differential Geometrical Foundations of Information Geometry ([WorldScientific, 2022](https://www.worldscientific.com/worldscibooks/10.1142/9268))
@@ -93,3 +94,6 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Computational Information Geometry with Frank Nielsen ([YouTube](https://www.youtube.com/watch?v=X3cBhBA1nNw))
 - Information Geometry and its Application by Melvin Leok
  ([YouTube](https://www.youtube.com/watch?v=FlyJJIQo-g4&list=PLHZhjPByiV3L94AeJ9FcK1yrnRDOt3Vit))
+ 
+# Workshops
+- Deep Learning through Information Geometry ([at NeurIPS 2020](https://sites.google.com/view/dl-info-neurips20))

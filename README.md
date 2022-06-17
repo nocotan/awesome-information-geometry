@@ -43,6 +43,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## alpha-Divergence
 - Generalized alpha-beta divergences and their application to robust nonnegative matrix factorization ([Entropy, 2011](https://www.mdpi.com/1099-4300/13/1/134))
 - Families of alpha-beta-and gamma-divergences: Flexible and robust measures of similarities ([Entropy, 2010](https://www.mdpi.com/1099-4300/12/6/1532))
+- Information geometry of divergence functions ([Bull. Pol. Acad. Sci. Tech. Sci., 2010](https://www.infona.pl/resource/bwmeta1.element.baztech-article-BPG8-0020-0019))
 - $\alpha $-Divergence Is Unique, Belonging to Both $f$-Divergence and Bregman Divergence Classes ([IEEE Trans. Information Theory, 2009](https://ieeexplore.ieee.org/abstract/document/5290302))
 
 # Library

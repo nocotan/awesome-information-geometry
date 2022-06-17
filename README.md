@@ -20,4 +20,5 @@ This repo is a collection of AWESOME things about information geometry, includin
 - [NNGeometry](https://github.com/tfjgeorge/nngeometry)
 - [natural-gradients](https://github.com/wiseodd/natural-gradients)
 - [InformationGeometry.jl](https://github.com/RafaelArutjunjan/InformationGeometry.jl)
+- [geodesical_skew_divergence](https://github.com/nocotan/geodesical_skew_divergence)
 # Lectures and Tutorials

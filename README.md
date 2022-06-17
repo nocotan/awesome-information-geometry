@@ -11,6 +11,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - [Papers](#papers)
   - [Survey](#survey)
   - [Information Geometry for Neural Networks](#information-geometry-for-neural-networks)
+  - [Information Geometry for Clustering](#information-geometry-for-clustering)
   - [Information Geometry for MCMC](#information-geometry-for-mcmc)
   - [Information Geometry for HMM](#information-geometry-for-hmm)
   - [Natural Gradient](#natural-gradient)
@@ -40,6 +41,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Gradient systems in view of information geometry ([Physica D: Nonlinear Phenomena, 1995](https://www.sciencedirect.com/journal/physica-d-nonlinear-phenomena))
 - Information geometry of the EM and em algorithms for neural networks ([Neural Networks, 1995](https://www.sciencedirect.com/science/article/abs/pii/0893608095000038))
 - Information geometry of Boltzmann machines ([IEEE Trans. Neural Networks, 1992](https://ieeexplore.ieee.org/abstract/document/125867))
+
+## Information Geometry for Clastering
+- On Clustering Histograms with k-Means by Using Mixed α-Divergences ([Entropy, 2014](https://www.mdpi.com/1099-4300/16/6/3273))
 
 ## Information Geometry for MCMC
 - Geometric Aspects of Data-Processing of Markov Chains ([Arxiv, 2022](https://arxiv.org/abs/2203.04575))

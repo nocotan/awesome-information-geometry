@@ -14,6 +14,7 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Information Geometry for Clustering](#information-geometry-for-clustering)
   - [Information Geometry for MCMC](#information-geometry-for-mcmc)
   - [Information Geometry for HMM](#information-geometry-for-hmm)
+  - [Fisher Information Matrix](#fisher-information-matrix)
   - [Natural Gradient](#natural-gradients)
   - [alpha-Divergence](#alpha-divergence)
   - [Exponential and Mixture Families](#exponential-and-mixture-families)
@@ -57,6 +58,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 
 ## Information Geometry for HMM
 - Information geometry approach to parameter estimation in hidden Markov model ([Bernoulli, 2022](https://projecteuclid.org/journals/bernoulli/volume-28/issue-1/Information-geometry-approach-to-parameter-estimation-in-hidden-Markov-model/10.3150/21-BEJ1344.short))
+
+## Fisher Information Matrix
+- The Spectrum of the Fisher Information Matrix of a Single-Hidden-Layer Neural Network ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/18bb68e2b38e4a8ce7cf4f6b2625768c-Abstract.html))
 
 ## Natural Gradients
 - Sinkhorn Natural Gradient for Generative Models ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/122e27d57ae8ecb37f3f1da67abb33cb-Abstract.html))

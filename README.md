@@ -7,11 +7,14 @@ This repo is a collection of AWESOME things about information geometry, includin
 # Contents
 - [awesome-information-geometry](#awesome-information-geometry)
 - [Contents](#contents)
+- [Books](#books)
 - [Papers](#papers)
   - [Survey](#survey)
   - [Natural Gradient](#natural-gradient)
 - [Library](#library)
 - [Lectures and Tutorials](#lectures-and-tutorials)
+
+# Books
 
 # Papers
 

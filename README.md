@@ -84,6 +84,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 # Lectures and Tutorials
 ## PDF
 - An elementary introduction to information geometry ([Entropy, 2022](https://www.mdpi.com/1099-4300/22/10/1100))
+- Divergence function, information monotonicity and information geometry ([WITMSE, 2009](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9566&rep=rep1&type=pdf))
 
 ## YouTube
 - Information Geometry and Its Applications: Survey by Shun-Ichi Amari ([YouTube](https://www.youtube.com/watch?v=2Uy6xCpvnj0))

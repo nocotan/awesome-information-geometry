@@ -10,7 +10,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 - [Books](#books)
 - [Papers](#papers)
   - [Survey](#survey)
+  - [Information Geometry for Neural Networks](#information-geometry-for-neural-networks)
   - [Natural Gradient](#natural-gradient)
+  - [alpha-Divergence](#alpha-divergence)
 - [Library](#library)
 - [Lectures and Tutorials](#lectures-and-tutorials)
   - [PDF](#pdf)
@@ -38,7 +40,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Natural Gradient
 - Natural gradient works efficiently in learning ([Neural computation, 1998](https://ieeexplore.ieee.org/abstract/document/6790500))
 
-## EM
+## alpha-Divergence
 
 # Library
 - [NNGeometry](https://github.com/tfjgeorge/nngeometry)

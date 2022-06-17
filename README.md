@@ -1,4 +1,7 @@
 # awesome-information-geometry
+
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/nocotan/awesome-information-geometry/blob/main/LICENSE)
+
 This repo is a collection of AWESOME things about information geometry, including papers, code, etc. Feel free to star and fork.
 
 # Contents

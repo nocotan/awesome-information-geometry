@@ -56,10 +56,13 @@ This repo is a collection of AWESOME things about information geometry, includin
 - On Clustering Histograms with k-Means by Using Mixed α-Divergences ([Entropy, 2014](https://www.mdpi.com/1099-4300/16/6/3273))
 
 ## Information Geometry for MCMC
-- Geometric Aspects of Data-Processing of Markov Chains ([Arxiv, 2022](https://arxiv.org/abs/2203.04575))
+- Geometric Aspects of Data-Processing of Markov Chains ([arxiv, 2022](https://arxiv.org/abs/2203.04575))
 - Information Geometry of Reversible Markov Chains ([Information Geometry, 2021](https://link.springer.com/article/10.1007/s41884-021-00061-7))
 - Geometry of Markov Chains, Finite State Machines, and Tree Models ([IEICE Tech. Rep., 2014](https://www.ieice.org/ken/paper/20140718BBPQ/eng/))
 - Information geometry approach to parameter estimation in Markov chains ([ISIT, 2014](https://ieeexplore.ieee.org/abstract/document/6875001))
+- Information geometry and sequential Monte Carlo ([arXiv, 2012](https://arxiv.org/abs/1212.0764))
+- Information Geometry of Contrastive Divergence ([ITSL, 2008](https://staff.aist.go.jp/s.akaho/papers/itsl2008.pdf))
+- Information geometry of Gibbs sampler ([NNA, 2004](https://staff.aist.go.jp/k.takabatake/takabatake04.pdf))
 
 ## Information Geometry for HMM
 - Information geometry approach to parameter estimation in hidden Markov model ([Bernoulli, 2022](https://projecteuclid.org/journals/bernoulli/volume-28/issue-1/Information-geometry-approach-to-parameter-estimation-in-hidden-Markov-model/10.3150/21-BEJ1344.short))

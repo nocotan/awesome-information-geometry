@@ -41,6 +41,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry of Boltzmann machines ([IEEE Trans. Neural Networks, 1992](https://ieeexplore.ieee.org/abstract/document/125867))
 
 ## Information Geometry for MCMC
+- Geometric Aspects of Data-Processing of Markov Chains ([Arxiv, 2022](https://arxiv.org/abs/2203.04575))
 - Information Geometry of Reversible Markov Chains ([Information Geometry, 2021](https://link.springer.com/article/10.1007/s41884-021-00061-7))
 - Geometry of Markov Chains, Finite State Machines, and Tree Models ([IEICE Tech. Rep., 2014](https://www.ieice.org/ken/paper/20140718BBPQ/eng/))
 - Information geometry approach to parameter estimation in Markov chains ([ISIT, 2014](https://ieeexplore.ieee.org/abstract/document/6875001))

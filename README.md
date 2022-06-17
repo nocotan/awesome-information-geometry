@@ -59,6 +59,10 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry approach to parameter estimation in hidden Markov model ([Bernoulli, 2022](https://projecteuclid.org/journals/bernoulli/volume-28/issue-1/Information-geometry-approach-to-parameter-estimation-in-hidden-Markov-model/10.3150/21-BEJ1344.short))
 
 ## Natural Gradients
+- Sinkhorn Natural Gradient for Generative Models ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/122e27d57ae8ecb37f3f1da67abb33cb-Abstract.html))
+- An Improved Analysis of (Variance-Reduced) Policy Gradient and Natural Policy Gradient Methods ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/56577889b3c1cd083b6d7b32d32f99d5-Abstract.html))
+- Natural Policy Gradient Primal-Dual Method for Constrained Markov Decision Processes ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/5f7695debd8cde8db5abcb9f161b49ea-Abstract.html))
+- Understanding Approximate Fisher Information for Fast Convergence of Natural Gradient Descent in Wide Neural Networks ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/7b41bfa5085806dfa24b8c9de0ce567f-Abstract.html))
 - Ngboost: Natural gradient boosting for probabilistic prediction ([ICML, 2020](http://proceedings.mlr.press/v119/duan20a.html?ref=https://githubhelp.com))
 - Online natural gradient as a Kalman filter ([Electron. J. Stat., 2018](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-12/issue-2/Online-natural-gradient-as-a-Kalman-filter/10.1214/18-EJS1468.full))
 - Stochastic search using the natural gradient ([ICML, 2009](https://dl.acm.org/doi/abs/10.1145/1553374.1553522?casa_token=fo1cfbAvRXUAAAAA:2AOY3ZmMcvl_qDx9hWVil95hF7P6QrjZu5VJWo-6EBWoYkMLqc0oa9qcl0Jy-I09BSSME-h1Q9_72g))

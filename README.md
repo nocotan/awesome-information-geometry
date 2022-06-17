@@ -14,7 +14,7 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Information Geometry for Clustering](#information-geometry-for-clustering)
   - [Information Geometry for MCMC](#information-geometry-for-mcmc)
   - [Information Geometry for HMM](#information-geometry-for-hmm)
-  - [Natural Gradient](#natural-gradient)
+  - [Natural Gradient](#natural-gradients)
   - [alpha-Divergence](#alpha-divergence)
   - [Exponential and Mixture Families](#exponential-and-mixture-families)
   - [Inequalities](#inequalities)
@@ -58,8 +58,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Information Geometry for HMM
 - Information geometry approach to parameter estimation in hidden Markov model ([Bernoulli, 2022](https://projecteuclid.org/journals/bernoulli/volume-28/issue-1/Information-geometry-approach-to-parameter-estimation-in-hidden-Markov-model/10.3150/21-BEJ1344.short))
 
-## Natural Gradient
+## Natural Gradients
 - Ngboost: Natural gradient boosting for probabilistic prediction ([ICML, 2020](http://proceedings.mlr.press/v119/duan20a.html?ref=https://githubhelp.com))
+- Online natural gradient as a Kalman filter ([Electron. J. Stat., 2018](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-12/issue-2/Online-natural-gradient-as-a-Kalman-filter/10.1214/18-EJS1468.full))
 - Stochastic search using the natural gradient ([ICML, 2009](https://dl.acm.org/doi/abs/10.1145/1553374.1553522?casa_token=fo1cfbAvRXUAAAAA:2AOY3ZmMcvl_qDx9hWVil95hF7P6QrjZu5VJWo-6EBWoYkMLqc0oa9qcl0Jy-I09BSSME-h1Q9_72g))
 - Rprop using the natural gradient ([Trends and Applications in Constructive Approximation, 2005](https://link.springer.com/chapter/10.1007/3-7643-7356-3_19))
 - Natural gradient descent for on-line learning ([PRL, 1998](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.5461))

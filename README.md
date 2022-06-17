@@ -49,6 +49,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - $\alpha $-Divergence Is Unique, Belonging to Both $f$-Divergence and Bregman Divergence Classes ([IEEE Trans. Information Theory, 2009](https://ieeexplore.ieee.org/abstract/document/5290302))
 
 ## Exponential and Mixture Families
+- Geometry of q-Exponential Family of Probability Distributions ([Entropy, 2011](https://www.mdpi.com/1099-4300/13/6/1170))
 
 # Library
 - [NNGeometry](https://github.com/tfjgeorge/nngeometry)

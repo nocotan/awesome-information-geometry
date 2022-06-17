@@ -41,6 +41,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Natural gradient works efficiently in learning ([Neural computation, 1998](https://ieeexplore.ieee.org/abstract/document/6790500))
 
 ## alpha-Divergence
+- $\alpha $-Divergence Is Unique, Belonging to Both $f$-Divergence and Bregman Divergence Classes ([IEEE Trans. Information Theory, 2009](https://ieeexplore.ieee.org/abstract/document/5290302))
 
 # Library
 - [NNGeometry](https://github.com/tfjgeorge/nngeometry)

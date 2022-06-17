@@ -12,6 +12,7 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Survey](#survey)
   - [Information Geometry for Neural Networks](#information-geometry-for-neural-networks)
   - [Information Geometry for MCMC](#information-geometry-for-mcmc)
+  - [Information Geometry for HMM](#information-geometry-for-hmm)
   - [Natural Gradient](#natural-gradient)
   - [alpha-Divergence](#alpha-divergence)
   - [Exponential and Mixture Families](#exponential-and-mixture-families)
@@ -42,6 +43,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Information Geometry for MCMC
 - Geometry of Markov Chains, Finite State Machines, and Tree Models ([IEICE Tech. Rep., 2014](https://www.ieice.org/ken/paper/20140718BBPQ/eng/))
 - Information geometry approach to parameter estimation in Markov chains ([ISIT, 2014](https://ieeexplore.ieee.org/abstract/document/6875001))
+
+## Information Geometry for HMM
+- Information geometry approach to parameter estimation in hidden Markov model ([Bernoulli, 2022](https://projecteuclid.org/journals/bernoulli/volume-28/issue-1/Information-geometry-approach-to-parameter-estimation-in-hidden-Markov-model/10.3150/21-BEJ1344.short))
 
 ## Natural Gradient
 - Natural gradient works efficiently in learning ([Neural computation, 1998](https://ieeexplore.ieee.org/abstract/document/6790500))

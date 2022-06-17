@@ -11,6 +11,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - [Papers](#papers)
   - [Survey](#survey)
   - [Information Geometry for Neural Networks](#information-geometry-for-neural-networks)
+  - [Information Geometry for MCMC](#information-geometry-for-mcmc)
   - [Natural Gradient](#natural-gradient)
   - [alpha-Divergence](#alpha-divergence)
   - [Exponential and Mixture Families](#exponential-and-mixture-families)
@@ -38,6 +39,8 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry of the EM and em algorithms for neural networks ([Neural Networks, 1995](https://www.sciencedirect.com/science/article/abs/pii/0893608095000038))
 - Information geometry of Boltzmann machines ([IEEE Trans. Neural Networks, 1992](https://ieeexplore.ieee.org/abstract/document/125867))
 
+## Information Geometry for MCMC
+
 ## Natural Gradient
 - Natural gradient works efficiently in learning ([Neural computation, 1998](https://ieeexplore.ieee.org/abstract/document/6790500))
 
@@ -58,6 +61,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - [natural-gradients](https://github.com/wiseodd/natural-gradients)
 - [InformationGeometry.jl](https://github.com/RafaelArutjunjan/InformationGeometry.jl)
 - [geodesical_skew_divergence](https://github.com/nocotan/geodesical_skew_divergence)
+
 # Lectures and Tutorials
 ## PDF
 - An elementary introduction to information geometry ([Entropy, 2022](https://www.mdpi.com/1099-4300/22/10/1100))

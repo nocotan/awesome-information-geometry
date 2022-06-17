@@ -17,5 +17,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Natural Gradient
 
 # Library
-
+- [NNGeometry](https://github.com/tfjgeorge/nngeometry)
+- [natural-gradients](https://github.com/wiseodd/natural-gradients)
+- [InformationGeometry.jl](https://github.com/RafaelArutjunjan/InformationGeometry.jl)
 # Lectures and Tutorials

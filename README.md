@@ -84,6 +84,8 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Learning the Similarity of Documents: An Information-Geometric Approach to Document Retrieval and Categorization ([NeurIPS, 1999](https://papers.nips.cc/paper/1999/hash/9d2682367c3935defcb1f9e247a97c0d-Abstract.html))
  
 ## Information Diffusion Kernels
+- Learning parameterized histogram kernels on the simplex manifold for image and action classification ([ICCV, 2011](https://ieeexplore.ieee.org/abstract/document/6126404/))
+- Sentiment classification with interpolated information diffusion kernels ([ADKDD, 2007](https://dl.acm.org/doi/abs/10.1145/1348599.1348605))
 - Diffusion kernels on statistical manifolds ([JMLR, 2005](https://www.jmlr.org/papers/volume6/lafferty05a/lafferty05a.pdf?fbclid=IwAR0nnU0pveoflyoS5msfIi5fcpZh8FQziAqaLICe1BWMZQcLe7uKT1kCI5A))
 
 ## Natural Gradients

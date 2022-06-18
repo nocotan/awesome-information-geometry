@@ -123,6 +123,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Integration of Stochastic Models by Minimizing $\alpha$-Divergence ([Neural Computation](https://ieeexplore.ieee.org/abstract/document/6795912))
 
 ## Bregman Divergence
+- Target detection within nonhomogeneous clutter via total bregman divergence-based matrix information geometry detectors ([IEEE Trans. Signal Processing, 2021](https://ieeexplore.ieee.org/abstract/document/9479799))
+- Information geometry for radar target detection with total Jensen–Bregman divergence ([Entropy,2018](https://www.mdpi.com/1099-4300/20/4/256))
+- The information geometry of mirror descent ([IEEE Trans. Information Theory, 2015](https://ieeexplore.ieee.org/abstract/document/7004065/))
 - Information geometry of U-Boost and Bregman divergence ([Neural Computation, 2004](https://ieeexplore.ieee.org/document/6789609))
 
 ## Exponential and Mixture Families

@@ -15,7 +15,8 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Information Geometry for MCMC](#information-geometry-for-mcmc)
   - [Information Geometry for HMM](#information-geometry-for-hmm)
   - [Fisher Information Matrix](#fisher-information-matrix)
-  - [Fisher Kernel](#fisher-kernel)
+  - [Fisher Kernels](#fisher-kernels)
+  - [Information Diffusion Kernels](#information-diffusion-kernels)
   - [Natural Gradients](#natural-gradients)
   - [alpha-Divergence](#alpha-divergence)
   - [Bregman Divergence](#bregman-divergence)
@@ -72,14 +73,18 @@ This repo is a collection of AWESOME things about information geometry, includin
 - The Spectrum of the Fisher Information Matrix of a Single-Hidden-Layer Neural Network ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/18bb68e2b38e4a8ce7cf4f6b2625768c-Abstract.html))
 - Evaluating neuronal codes for inference using Fisher information ([NeurIPS, 2010](https://papers.nips.cc/paper/2010/hash/08b255a5d42b89b0585260b6f2360bdd-Abstract.html))
 
-## Fisher Kernel
+## Fisher Kernels
 - Deep active learning for biased datasets via fisher kernel self-supervision ([CVPR, 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Gudovskiy_Deep_Active_Learning_for_Biased_Datasets_via_Fisher_Kernel_Self-Supervision_CVPR_2020_paper.html))
 - Persistence fisher kernel: A riemannian manifold kernel for persistence diagrams ([NeurIPS, 2018](https://proceedings.neurips.cc/paper/2018/hash/959ab9a0695c467e7caf75431a872e5c-Abstract.html))
 - The fisher kernel: a brief review ([RN, 2011](http://www.cs.ucl.ac.uk/fileadmin/UCL-CS/research/Research_Notes/RN_11_06.pdf))
 - Improving the fisher kernel for large-scale image classification ([ECCV, 2010](https://link.springer.com/chapter/10.1007/978-3-642-15561-1_11))
+- Indefinite kernel fisher discriminant ([ICPR, 2008](https://ieeexplore.ieee.org/abstract/document/4761718/))
 - A Kullback-Leibler divergence based kernel for SVM classification in multimedia applications ([NeurIPS, 2003](https://proceedings.neurips.cc/paper/2003/hash/0abdc563a06105aee3c6136871c9f4d1-Abstract.html))
 - A novel graph-based fisher kernel method for semi-supervised learning ([ICPR, 2014](https://ieeexplore.ieee.org/abstract/document/6977362))
 - Learning the Similarity of Documents: An Information-Geometric Approach to Document Retrieval and Categorization ([NeurIPS, 1999](https://papers.nips.cc/paper/1999/hash/9d2682367c3935defcb1f9e247a97c0d-Abstract.html))
+ 
+## Information Diffusion Kernels
+- Diffusion kernels on statistical manifolds ([JMLR, 2005](https://www.jmlr.org/papers/volume6/lafferty05a/lafferty05a.pdf?fbclid=IwAR0nnU0pveoflyoS5msfIi5fcpZh8FQziAqaLICe1BWMZQcLe7uKT1kCI5A))
 
 ## Natural Gradients
 - Sinkhorn Natural Gradient for Generative Models ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/122e27d57ae8ecb37f3f1da67abb33cb-Abstract.html))

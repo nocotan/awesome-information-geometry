@@ -74,6 +74,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Evaluating neuronal codes for inference using Fisher information ([NeurIPS, 2010](https://papers.nips.cc/paper/2010/hash/08b255a5d42b89b0585260b6f2360bdd-Abstract.html))
 
 ## Fisher Kernels
+- Learning Representation from Neural Fisher Kernel with Low-rank Approximation ([ICLR, 2022](https://openreview.net/forum?id=J1rhANsCY9))
 - Deep active learning for biased datasets via fisher kernel self-supervision ([CVPR, 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Gudovskiy_Deep_Active_Learning_for_Biased_Datasets_via_Fisher_Kernel_Self-Supervision_CVPR_2020_paper.html))
 - Persistence fisher kernel: A riemannian manifold kernel for persistence diagrams ([NeurIPS, 2018](https://proceedings.neurips.cc/paper/2018/hash/959ab9a0695c467e7caf75431a872e5c-Abstract.html))
 - The fisher kernel: a brief review ([RN, 2011](http://www.cs.ucl.ac.uk/fileadmin/UCL-CS/research/Research_Notes/RN_11_06.pdf))

@@ -55,7 +55,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry of Boltzmann machines ([IEEE Trans. Neural Networks, 1992](https://ieeexplore.ieee.org/abstract/document/125867))
 
 ## Information Geometry for Clustering
+- A novel clustering algorithm based on information geometry for cooperative spectrum sensing ([IEEE Systems Journal, 2020](https://ieeexplore.ieee.org/abstract/document/9123433))
 - On Clustering Histograms with k-Means by Using Mixed α-Divergences ([Entropy, 2014](https://www.mdpi.com/1099-4300/16/6/3273))
+- Barycentric distribution estimation for texture clustering based on information-geometry tools ([ISETC, 2012](https://ieeexplore.ieee.org/abstract/document/6408132))
 
 ## Information Geometry for MCMC
 - Geometric Aspects of Data-Processing of Markov Chains ([arxiv, 2022](https://arxiv.org/abs/2203.04575))

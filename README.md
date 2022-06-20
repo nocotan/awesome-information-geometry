@@ -74,6 +74,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Fisher Information Matrix
 - On the Variance of the Fisher Information for Deep Learning ([NeurIPS, 2021](https://papers.nips.cc/paper/2021/hash/2d290e496d16c9dcaa9b4ded5cac10cc-Abstract.html))
 - The Spectrum of the Fisher Information Matrix of a Single-Hidden-Layer Neural Network ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/18bb68e2b38e4a8ce7cf4f6b2625768c-Abstract.html))
+- General Fisher information matrices of a random vector ([Adv. Appl. Math., 2017](https://www.sciencedirect.com/science/article/pii/S0196885817300404))
 - Evaluating neuronal codes for inference using Fisher information ([NeurIPS, 2010](https://papers.nips.cc/paper/2010/hash/08b255a5d42b89b0585260b6f2360bdd-Abstract.html))
 - Invariant Fisher information ([Differ Geom Appl., 1994](https://www.sciencedirect.com/science/article/pii/0926224594000131))
 

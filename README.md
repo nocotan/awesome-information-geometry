@@ -72,6 +72,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry approach to parameter estimation in hidden Markov model ([Bernoulli, 2022](https://projecteuclid.org/journals/bernoulli/volume-28/issue-1/Information-geometry-approach-to-parameter-estimation-in-hidden-Markov-model/10.3150/21-BEJ1344.short))
 
 ## Fisher Information Matrix
+- On the Variance of the Fisher Information for Deep Learning ([NeurIPS, 2021](https://papers.nips.cc/paper/2021/hash/2d290e496d16c9dcaa9b4ded5cac10cc-Abstract.html))
 - The Spectrum of the Fisher Information Matrix of a Single-Hidden-Layer Neural Network ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/18bb68e2b38e4a8ce7cf4f6b2625768c-Abstract.html))
 - Evaluating neuronal codes for inference using Fisher information ([NeurIPS, 2010](https://papers.nips.cc/paper/2010/hash/08b255a5d42b89b0585260b6f2360bdd-Abstract.html))
 

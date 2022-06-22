@@ -12,6 +12,7 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Survey](#survey)
   - [Information Geometry for Neural Networks](#information-geometry-for-neural-networks)
   - [Information Geometry for Clustering](#information-geometry-for-clustering)
+  - [Information Geometry for NMF](#information-geometry-for-nmf)
   - [Information Geometry for MCMC](#information-geometry-for-mcmc)
   - [Information Geometry for HMM](#information-geometry-for-hmm)
   - [Information Geometry for Dimension Reduction](#information-geometry-for-dimension-reduction)
@@ -62,6 +63,10 @@ This repo is a collection of AWESOME things about information geometry, includin
 - A novel clustering algorithm based on information geometry for cooperative spectrum sensing ([IEEE Systems Journal, 2020](https://ieeexplore.ieee.org/abstract/document/9123433))
 - On Clustering Histograms with k-Means by Using Mixed α-Divergences ([Entropy, 2014](https://www.mdpi.com/1099-4300/16/6/3273))
 - Barycentric distribution estimation for texture clustering based on information-geometry tools ([ISETC, 2012](https://ieeexplore.ieee.org/abstract/document/6408132))
+
+## Information Geometry for NMF
+- Geometrical formulation of the nonnegative matrix factorization ([ICONIP, 2018](https://link.springer.com/chapter/10.1007/978-3-030-04182-3_46))
+- Generalized alpha-beta divergences and their application to robust nonnegative matrix factorization ([Entropy, 2011](https://www.mdpi.com/1099-4300/13/1/134))
 
 ## Information Geometry for MCMC
 - Geometric Aspects of Data-Processing of Markov Chains ([arxiv, 2022](https://arxiv.org/abs/2203.04575))
@@ -138,7 +143,6 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Utilizing amari-alpha divergence to stabilize the training of generative adversarial networks ([Entropy, 2020](https://www.mdpi.com/1099-4300/22/4/410))
 - Log-determinant divergences revisited: Alpha-beta and gamma log-det divergences ([Entropy, 2015](https://www.mdpi.com/1099-4300/17/5/2988))
 - On the chi square and higher-order chi distances for approximating f-divergences ([IEEE Signal Processing Letters, 2013](https://ieeexplore.ieee.org/abstract/document/6654274))
-- Generalized alpha-beta divergences and their application to robust nonnegative matrix factorization ([Entropy, 2011](https://www.mdpi.com/1099-4300/13/1/134))
 - Families of alpha-beta-and gamma-divergences: Flexible and robust measures of similarities ([Entropy, 2010](https://www.mdpi.com/1099-4300/12/6/1532))
 - Information geometry of divergence functions ([Bull. Pol. Acad. Sci. Tech. Sci., 2010](https://www.infona.pl/resource/bwmeta1.element.baztech-article-BPG8-0020-0019))
 - $\alpha $-Divergence Is Unique, Belonging to Both $f$-Divergence and Bregman Divergence Classes ([IEEE Trans. Information Theory, 2009](https://ieeexplore.ieee.org/abstract/document/5290302))

@@ -29,6 +29,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - [Lectures and Tutorials](#lectures-and-tutorials)
   - [PDF](#pdf)
   - [YouTube](#youtube)
+- [Journals](#journals)
 - [Conferences](#conferences)
 - [Workshops](#workshops)
 
@@ -49,6 +50,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry in optimization, machine learning and statistical inference ([Front. Electr. Electron. Eng. China, 2010](https://link.springer.com/article/10.1007/s11460-010-0101-3))
 
 ## Information Geometry for Neural Networks
+- IGAGCN: Information geometry and attention-based spatiotemporal graph convolutional networks for traffic flow prediction ([Neural Networks, 2021](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002318))
 - Information Geometry of Orthogonal Initializations and Training ([ICLR, 2020](https://openreview.net/forum?id=rkg1ngrFPr))
 - Fisher-rao metric, geometry, and complexity of neural networks ([AISTATS, 2019](https://proceedings.mlr.press/v89/liang19a.html))
 - Principles of Riemannian Geometry in Neural Networks ([NeurIPS, 2017](https://papers.nips.cc/paper/2017/hash/0ebcc77dc72360d0eb8e9504c78d38bd-Abstract.html))

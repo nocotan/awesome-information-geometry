@@ -145,6 +145,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 - The information geometry of Bregman divergences and some applications in multi-expert reasoning ([Entropy, 2014](https://www.mdpi.com/85934))
 - Information geometry of U-Boost and Bregman divergence ([Neural Computation, 2004](https://ieeexplore.ieee.org/document/6789609))
 
+## Jensen–Shannon Divergence
+- On the Jensen–Shannon Symmetrization of Distances Relying on Abstract Means ([Entropy, 2019](https://www.mdpi.com/1099-4300/21/5/485/htm))
+
 ## Exponential and Mixture Families
 - Information geometry of positive measures and positive-definite matrices: decomposable dually flat structure ([Entropy, 2014](https://www.mdpi.com/1099-4300/16/4/2131))
 - Geometry of deformed exponential families: Invariant, dually-flat and conformal geometries ([Physica A, 2012](https://www.sciencedirect.com/science/article/pii/S037843711200310X?casa_token=5QWUwzlQnr0AAAAA:bWGXoEe3_Tw7fi-1AMPgCW0o7dGx2ZAyof3A_mG3Mwqp00MmxDeiXA5rLq-vejdfboyLam-vYto))

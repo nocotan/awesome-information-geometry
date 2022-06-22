@@ -21,7 +21,7 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Natural Gradients](#natural-gradients)
   - [alpha-Divergence](#alpha-divergence)
   - [Bregman Divergence](#bregman-divergence)
-  - [Jensen–Shannon Divergence](#jensen–shannon-divergence)
+  - [Jensen-Shannon Divergence](#jensen-shannon-divergence)
   - [Exponential and Mixture Families](#exponential-and-mixture-families)
   - [Inequalities](#inequalities)
 - [Library](#library)
@@ -153,7 +153,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - The information geometry of Bregman divergences and some applications in multi-expert reasoning ([Entropy, 2014](https://www.mdpi.com/85934))
 - Information geometry of U-Boost and Bregman divergence ([Neural Computation, 2004](https://ieeexplore.ieee.org/document/6789609))
 
-## Jensen–Shannon Divergence
+## Jensen-Shannon Divergence
 - On a variational definition for the Jensen-Shannon symmetrization of distances based on the information radius ([Entropy, 2021](https://www.mdpi.com/1099-4300/23/4/464))
 - $\alpha$-Geodesical Skew Divergence ([Entropy, 2021](https://www.mdpi.com/1099-4300/23/5/528))
 - On a generalization of the Jensen–Shannon divergence and the Jensen–Shannon centroid ([Entropy, 2020](https://www.mdpi.com/1099-4300/22/2/221))

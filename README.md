@@ -175,6 +175,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Geometry of q-Exponential Family of Probability Distributions ([Entropy, 2011](https://www.mdpi.com/1099-4300/13/6/1170))
 
 ## Inequalities
+- Curvature Inequalities and Simons’ Type Formulas in Statistical Geometry ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_43))
 - Cramér-Rao lower bound and information geometry ([Connected at Infinity II., 2013](https://link.springer.com/chapter/10.1007/978-93-86279-56-9_2))
 - Inequalities for Tsallis relative entropy and generalized skew information ([Linear Multilinear Algebra, 2011](https://www.tandfonline.com/doi/abs/10.1080/03081087.2011.574624))
 

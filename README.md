@@ -146,6 +146,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry of U-Boost and Bregman divergence ([Neural Computation, 2004](https://ieeexplore.ieee.org/document/6789609))
 
 ## Jensen–Shannon Divergence
+- On a variational definition for the Jensen-Shannon symmetrization of distances based on the information radius ([Entropy, 2021](https://www.mdpi.com/1099-4300/23/4/464))
+- $\alpha$-Geodesical Skew Divergence ([Entropy, 2021](https://www.mdpi.com/1099-4300/23/5/528))
+- On a generalization of the Jensen–Shannon divergence and the Jensen–Shannon centroid ([Entropy, 2020](https://www.mdpi.com/1099-4300/22/2/221))
 - On the Jensen–Shannon Symmetrization of Distances Relying on Abstract Means ([Entropy, 2019](https://www.mdpi.com/1099-4300/21/5/485/htm))
 
 ## Exponential and Mixture Families

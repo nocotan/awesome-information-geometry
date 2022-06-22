@@ -77,6 +77,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Local equivalence problem in hidden Markov model ([Information Geometry, 2019](https://link.springer.com/article/10.1007/s41884-019-00016-z))
 
 ## Information Geometry for Dimension Reduction
+- Dimension Reduction for Mixtures of Exponential Families ([ICANN, 2008](https://link.springer.com/chapter/10.1007/978-3-540-87536-9_1))
 - The e-PCA and m-PCA: Dimension reduction of parameters by information geometry ([IJCNN, 2004](https://ieeexplore.ieee.org/abstract/document/1379884))
 
 ## Fisher Information Matrix

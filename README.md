@@ -14,12 +14,14 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Information Geometry for Clustering](#information-geometry-for-clustering)
   - [Information Geometry for MCMC](#information-geometry-for-mcmc)
   - [Information Geometry for HMM](#information-geometry-for-hmm)
+  - [Information Geometry for Dimension Reduction](#information-geometry-for-dimension-reduction)
   - [Fisher Information Matrix](#fisher-information-matrix)
   - [Fisher Kernels](#fisher-kernels)
   - [Information Diffusion Kernels](#information-diffusion-kernels)
   - [Natural Gradients](#natural-gradients)
   - [alpha-Divergence](#alpha-divergence)
   - [Bregman Divergence](#bregman-divergence)
+  - [Jensen–Shannon Divergence](#jensen–shannon-divergence)
   - [Exponential and Mixture Families](#exponential-and-mixture-families)
   - [Inequalities](#inequalities)
 - [Library](#library)
@@ -73,6 +75,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Information Geometry for HMM
 - Information geometry approach to parameter estimation in hidden Markov model ([Bernoulli, 2022](https://projecteuclid.org/journals/bernoulli/volume-28/issue-1/Information-geometry-approach-to-parameter-estimation-in-hidden-Markov-model/10.3150/21-BEJ1344.short))
 - Local equivalence problem in hidden Markov model ([Information Geometry, 2019](https://link.springer.com/article/10.1007/s41884-019-00016-z))
+
+## Information Geometry for Dimension Reduction
+- The e-PCA and m-PCA: Dimension reduction of parameters by information geometry ([IJCNN, 2004](https://ieeexplore.ieee.org/abstract/document/1379884))
 
 ## Fisher Information Matrix
 - On the Variance of the Fisher Information for Deep Learning ([NeurIPS, 2021](https://papers.nips.cc/paper/2021/hash/2d290e496d16c9dcaa9b4ded5cac10cc-Abstract.html))

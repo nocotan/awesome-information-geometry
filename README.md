@@ -199,6 +199,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Properties of Nonlinear Diffusion Equations on Networks and Their Geometric Aspects ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_79))
 - Rényi Relative Entropy from Homogeneous Kullback-Leibler Divergence Lagrangian ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_80))
 - Statistical Bundle of the Transport Model ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_81))
+- Computational information geometry in statistics: theory and practice ([Entropy, 2014](https://www.mdpi.com/1099-4300/16/5/2454))
 
 # Library
 - [NNGeometry](https://github.com/tfjgeorge/nngeometry)

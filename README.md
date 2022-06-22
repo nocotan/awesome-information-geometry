@@ -185,6 +185,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Traditional and Accelerated Gradient Descent for Neural Architecture Search ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_55))
 - Recent Developments on the MTW Tensor ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_56))
 - Wasserstein Proximal of GANs ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_57))
+- Information geometry connecting Wasserstein distance and Kullback–Leibler divergence via the entropy-relaxed transportation problem ([Information Geometry, 2018](https://link.springer.com/article/10.1007/s41884-018-0002-8))
 
 # Library
 - [NNGeometry](https://github.com/tfjgeorge/nngeometry)

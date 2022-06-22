@@ -46,6 +46,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry in optimization, machine learning and statistical inference ([Front. Electr. Electron. Eng. China, 2010](https://link.springer.com/article/10.1007/s11460-010-0101-3))
 
 ## Information Geometry for Neural Networks
+- Information Geometry of Orthogonal Initializations and Training ([ICLR, 2020](https://openreview.net/forum?id=rkg1ngrFPr))
 - Principles of Riemannian Geometry in Neural Networks ([NeurIPS, 2017](https://papers.nips.cc/paper/2017/hash/0ebcc77dc72360d0eb8e9504c78d38bd-Abstract.html))
 - f-GANs in an Information Geometric Nutshell ([NeurIPS, 2017](https://papers.nips.cc/paper/2017/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html))
 - Geometrical Singularities in the Neuromanifold of Multilayer Perceptrons ([NeurIPS, 2001](https://papers.nips.cc/paper/2001/hash/65d2ea03425887a717c435081cfc5dbb-Abstract.html))

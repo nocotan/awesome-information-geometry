@@ -202,6 +202,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 
 # Conferences
 - International Conference on Information Geometry for Data Science ([IG4DS](https://www.dsf.tuhh.de/index.php/ig4ds/))
+- International Conference on Geometric Science of Information ([GSI](https://link.springer.com/conference/gsi))
  
 # Workshops
 - Deep Learning through Information Geometry ([at NeurIPS 2020](https://sites.google.com/view/dl-info-neurips20))

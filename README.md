@@ -103,6 +103,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Fast Convergence of Natural Gradient Descent for Over-Parameterized Neural Networks ([NeurIPS, 2019](https://papers.nips.cc/paper/2019/hash/1da546f25222c1ee710cf7e2f7a3ff0c-Abstract.html))
 - Limitations of the empirical Fisher approximation for natural gradient descent ([NeurIPS, 2019](https://papers.nips.cc/paper/2019/hash/46a558d97954d0692411c861cf78ef79-Abstract.html))
 - Online natural gradient as a Kalman filter ([Electron. J. Stat., 2018](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-12/issue-2/Online-natural-gradient-as-a-Kalman-filter/10.1214/18-EJS1468.full))
+- Natural gradient via optimal transport ([Information Geometry, 2018](https://link.springer.com/article/10.1007/s41884-018-0015-3))
 - Fast Approximate Natural Gradient Descent in a Kronecker Factored Eigenbasis ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/48000647b315f6f00f913caa757a70b3-Abstract.html))
 - Exact natural gradient in deep linear networks and its application to the nonlinear case ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/7f018eb7b301a66658931cb8a93fd6e8-Abstract.html))
 - SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/d3157f2f0212a80a5d042c127522a2d5-Abstract.html))

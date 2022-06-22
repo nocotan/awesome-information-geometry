@@ -125,6 +125,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Natural gradient works efficiently in learning ([Neural Computation, 1998](https://ieeexplore.ieee.org/abstract/document/6790500))
 
 ## alpha-Divergence
+- Utilizing amari-alpha divergence to stabilize the training of generative adversarial networks ([Entropy, 2020](https://www.mdpi.com/1099-4300/22/4/410))
 - Log-determinant divergences revisited: Alpha-beta and gamma log-det divergences ([Entropy, 2015](https://www.mdpi.com/1099-4300/17/5/2988))
 - On the chi square and higher-order chi distances for approximating f-divergences ([IEEE Signal Processing Letters, 2013](https://ieeexplore.ieee.org/abstract/document/6654274))
 - Generalized alpha-beta divergences and their application to robust nonnegative matrix factorization ([Entropy, 2011](https://www.mdpi.com/1099-4300/13/1/134))

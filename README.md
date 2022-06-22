@@ -25,6 +25,7 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Jensen-Shannon Divergence](#jensen-shannon-divergence)
   - [Exponential and Mixture Families](#exponential-and-mixture-families)
   - [Inequalities](#inequalities)
+  - [Transport Information Geometry](#transport-information-geometry)
 - [Library](#library)
 - [Lectures and Tutorials](#lectures-and-tutorials)
   - [PDF](#pdf)
@@ -178,6 +179,12 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Curvature Inequalities and Simons’ Type Formulas in Statistical Geometry ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_43))
 - Cramér-Rao lower bound and information geometry ([Connected at Infinity II., 2013](https://link.springer.com/chapter/10.1007/978-93-86279-56-9_2))
 - Inequalities for Tsallis relative entropy and generalized skew information ([Linear Multilinear Algebra, 2011](https://www.tandfonline.com/doi/abs/10.1080/03081087.2011.574624))
+
+## Transport Information Geometry
+- Wasserstein Statistics in One-Dimensional Location-Scale Models ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_54))
+- Traditional and Accelerated Gradient Descent for Neural Architecture Search ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_55))
+- Recent Developments on the MTW Tensor ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_56))
+- Wasserstein Proximal of GANs ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_57))
 
 # Library
 - [NNGeometry](https://github.com/tfjgeorge/nngeometry)

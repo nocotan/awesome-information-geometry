@@ -26,6 +26,7 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Exponential and Mixture Families](#exponential-and-mixture-families)
   - [Inequalities](#inequalities)
   - [Transport Information Geometry](#transport-information-geometry)
+  - [Computational Information Geometry](#computational-information-geometry)
 - [Library](#library)
 - [Lectures and Tutorials](#lectures-and-tutorials)
   - [PDF](#pdf)
@@ -186,6 +187,18 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Recent Developments on the MTW Tensor ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_56))
 - Wasserstein Proximal of GANs ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_57))
 - Information geometry connecting Wasserstein distance and Kullback–Leibler divergence via the entropy-relaxed transportation problem ([Information Geometry, 2018](https://link.springer.com/article/10.1007/s41884-018-0002-8))
+
+## Computational Information Geometry
+- Computing Statistical Divergences with Sigma Points ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_72))
+- Remarks on Laplacian of Graphical Models in Various Graphs ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_73))
+- Classification in the Siegel Space for Vectorial Autoregressive Data ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_74))
+- Information Metrics for Phylogenetic Trees via Distributions of Discrete and Continuous Characters ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_75))
+- Wald Space for Phylogenetic Trees ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_76))
+- A Necessary Condition for Semiparametric Efficiency of Experimental Designs ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_77))
+- Parametrisation Independence of the Natural Gradient in Overparametrised Systems ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_78))
+- Properties of Nonlinear Diffusion Equations on Networks and Their Geometric Aspects ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_79))
+- Rényi Relative Entropy from Homogeneous Kullback-Leibler Divergence Lagrangian ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_80))
+- Statistical Bundle of the Transport Model ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_81))
 
 # Library
 - [NNGeometry](https://github.com/tfjgeorge/nngeometry)

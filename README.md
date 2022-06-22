@@ -133,7 +133,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Families of alpha-beta-and gamma-divergences: Flexible and robust measures of similarities ([Entropy, 2010](https://www.mdpi.com/1099-4300/12/6/1532))
 - Information geometry of divergence functions ([Bull. Pol. Acad. Sci. Tech. Sci., 2010](https://www.infona.pl/resource/bwmeta1.element.baztech-article-BPG8-0020-0019))
 - $\alpha $-Divergence Is Unique, Belonging to Both $f$-Divergence and Bregman Divergence Classes ([IEEE Trans. Information Theory, 2009](https://ieeexplore.ieee.org/abstract/document/5290302))
-- Integration of Stochastic Models by Minimizing $\alpha$-Divergence ([Neural Computation](https://ieeexplore.ieee.org/abstract/document/6795912))
+- Integration of Stochastic Models by Minimizing $\alpha$-Divergence ([Neural Computation, 2007](https://ieeexplore.ieee.org/abstract/document/6795912))
 
 ## Bregman Divergence
 - Transport information Bregman divergences ([Information Geometry, 2021](https://link.springer.com/article/10.1007/s41884-021-00063-5))

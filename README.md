@@ -107,6 +107,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Fast Approximate Natural Gradient Descent in a Kronecker Factored Eigenbasis ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/48000647b315f6f00f913caa757a70b3-Abstract.html))
 - Exact natural gradient in deep linear networks and its application to the nonlinear case ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/7f018eb7b301a66658931cb8a93fd6e8-Abstract.html))
 - SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/d3157f2f0212a80a5d042c127522a2d5-Abstract.html))
+- Comparison-based natural gradient optimization in high dimension ([GECCO, 2014](https://dl.acm.org/doi/abs/10.1145/2576768.2598258))
 - Projected Natural Actor-Critic ([NeurIPS, 2013](https://papers.nips.cc/paper/2013/hash/dd77279f7d325eec933f05b1672f6a1f-Abstract.html))
 - Stochastic Gradient Riemannian Langevin Dynamics on the Probability Simplex ([NeurIPS, 2013](https://papers.nips.cc/paper/2013/hash/309928d4b100a5d75adff48a9bfc1ddb-Abstract.html))
 - New Sparse Adaptive Algorithms Based on the Natural Gradient and the $L_0$-Norm  ([IEEE J. Ocean. Eng., 2012](https://ieeexplore.ieee.org/abstract/document/6365766))

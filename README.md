@@ -53,6 +53,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Fisher-rao metric, geometry, and complexity of neural networks ([AISTATS, 2019](https://proceedings.mlr.press/v89/liang19a.html))
 - Principles of Riemannian Geometry in Neural Networks ([NeurIPS, 2017](https://papers.nips.cc/paper/2017/hash/0ebcc77dc72360d0eb8e9504c78d38bd-Abstract.html))
 - f-GANs in an Information Geometric Nutshell ([NeurIPS, 2017](https://papers.nips.cc/paper/2017/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html))
+- Principal whitened gradient for information geometry ([Neural Networks, 2008](https://www.sciencedirect.com/science/article/abs/pii/S0893608007002523))
 - Geometrical Singularities in the Neuromanifold of Multilayer Perceptrons ([NeurIPS, 2001](https://papers.nips.cc/paper/2001/hash/65d2ea03425887a717c435081cfc5dbb-Abstract.html))
 - Algebraic Information Geometry for Learning Machines with Singularities ([NeurIPS, 2000](https://papers.nips.cc/paper/2000/hash/f442d33fa06832082290ad8544a8da27-Abstract.html))
 - Gradient systems in view of information geometry ([Physica D: Nonlinear Phenomena, 1995](https://www.sciencedirect.com/journal/physica-d-nonlinear-phenomena))

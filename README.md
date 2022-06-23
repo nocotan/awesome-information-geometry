@@ -93,6 +93,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 
 ## Fisher Information Matrix
 - On the Variance of the Fisher Information for Deep Learning ([NeurIPS, 2021](https://papers.nips.cc/paper/2021/hash/2d290e496d16c9dcaa9b4ded5cac10cc-Abstract.html))
+- On the Fisher-Rao Information Metric in the Space of Normal Distributions ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_70))
 - The Spectrum of the Fisher Information Matrix of a Single-Hidden-Layer Neural Network ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/18bb68e2b38e4a8ce7cf4f6b2625768c-Abstract.html))
 - General Fisher information matrices of a random vector ([Adv. Appl. Math., 2017](https://www.sciencedirect.com/science/article/pii/S0196885817300404))
 - Evaluating neuronal codes for inference using Fisher information ([NeurIPS, 2010](https://papers.nips.cc/paper/2010/hash/08b255a5d42b89b0585260b6f2360bdd-Abstract.html))
@@ -120,6 +121,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Natural Policy Gradient Primal-Dual Method for Constrained Markov Decision Processes ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/5f7695debd8cde8db5abcb9f161b49ea-Abstract.html))
 - Understanding Approximate Fisher Information for Fast Convergence of Natural Gradient Descent in Wide Neural Networks ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/7b41bfa5085806dfa24b8c9de0ce567f-Abstract.html))
 - Ngboost: Natural gradient boosting for probabilistic prediction ([ICML, 2020](http://proceedings.mlr.press/v119/duan20a.html?ref=https://githubhelp.com))
+- A Formalization of the Natural Gradient Method for General Similarity Measures ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_62))
 - Fast Convergence of Natural Gradient Descent for Over-Parameterized Neural Networks ([NeurIPS, 2019](https://papers.nips.cc/paper/2019/hash/1da546f25222c1ee710cf7e2f7a3ff0c-Abstract.html))
 - Limitations of the empirical Fisher approximation for natural gradient descent ([NeurIPS, 2019](https://papers.nips.cc/paper/2019/hash/46a558d97954d0692411c861cf78ef79-Abstract.html))
 - Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search ([ICML, 2019](https://proceedings.mlr.press/v97/akimoto19a.html))
@@ -147,6 +149,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## alpha-Divergence
 - Infinite-dimensional gradient-based descent for alpha-divergence minimisation ([Ann. Stat., 2021](https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-4/Infinite-dimensional-gradient-based-descent-for-alpha-divergence-minimisation/10.1214/20-AOS2035.short))
 - Utilizing amari-alpha divergence to stabilize the training of generative adversarial networks ([Entropy, 2020](https://www.mdpi.com/1099-4300/22/4/410))
+- Divergence Functions in Information Geometry ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_45))
 - Log-determinant divergences revisited: Alpha-beta and gamma log-det divergences ([Entropy, 2015](https://www.mdpi.com/1099-4300/17/5/2988))
 - On the chi square and higher-order chi distances for approximating f-divergences ([IEEE Signal Processing Letters, 2013](https://ieeexplore.ieee.org/abstract/document/6654274))
 - Families of alpha-beta-and gamma-divergences: Flexible and robust measures of similarities ([Entropy, 2010](https://www.mdpi.com/1099-4300/12/6/1532))
@@ -158,6 +161,8 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Bregman Divergence
 - Transport information Bregman divergences ([Information Geometry, 2021](https://link.springer.com/article/10.1007/s41884-021-00063-5))
 - Target detection within nonhomogeneous clutter via total bregman divergence-based matrix information geometry detectors ([IEEE Trans. Signal Processing, 2021](https://ieeexplore.ieee.org/abstract/document/9479799))
+- The Bregman Chord Divergence ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_31))
+- Logarithmic Divergences: Geometry and Interpretation of Curvature ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_43))
 - Information geometry for radar target detection with total Jensen–Bregman divergence ([Entropy, 2018](https://www.mdpi.com/1099-4300/20/4/256))
 - Information geometry for covariance estimation in heterogeneous clutter with total Bregman divergence ([Entropy, 2018](https://www.mdpi.com/280084))
 - The information geometry of mirror descent ([IEEE Trans. Information Theory, 2015](https://ieeexplore.ieee.org/abstract/document/7004065/))
@@ -172,12 +177,19 @@ This repo is a collection of AWESOME things about information geometry, includin
 
 ## Exponential and Mixture Families
 - On a convergence property of a geometrical algorithm for statistical manifolds ([ICONIP, 2019](https://link.springer.com/chapter/10.1007/978-3-030-36802-9_29))
+- Testing the Number and the Nature of the Components in a Mixture Distribution ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_32))
+- Sobolev Statistical Manifolds and Exponential Models ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_46))
+- Minimization of the Kullback-Leibler Divergence over a Log-Normal Exponential Arc ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_47))
+- Riemannian Distance and Diameter of the Space of Probability Measures and the Parametrix ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_48))
 - Information geometry of positive measures and positive-definite matrices: decomposable dually flat structure ([Entropy, 2014](https://www.mdpi.com/1099-4300/16/4/2131))
 - Geometry of deformed exponential families: Invariant, dually-flat and conformal geometries ([Physica A, 2012](https://www.sciencedirect.com/science/article/pii/S037843711200310X?casa_token=5QWUwzlQnr0AAAAA:bWGXoEe3_Tw7fi-1AMPgCW0o7dGx2ZAyof3A_mG3Mwqp00MmxDeiXA5rLq-vejdfboyLam-vYto))
 - Geometry of q-Exponential Family of Probability Distributions ([Entropy, 2011](https://www.mdpi.com/1099-4300/13/6/1170))
 
 ## Inequalities
 - Curvature Inequalities and Simons’ Type Formulas in Statistical Geometry ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_43))
+- Inequalities for Statistical Submanifolds in Hessian Manifolds of Constant Hessian Curvature ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_40))
+- B. Y. Chen Inequalities for Statistical Submanifolds in Sasakian Statistical Manifolds ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_41))
+- Generalized Wintgen Inquality for Legendrian Submanifolds in Sasakian Statistical Manifolds ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_42))
 - Cramér-Rao lower bound and information geometry ([Connected at Infinity II., 2013](https://link.springer.com/chapter/10.1007/978-93-86279-56-9_2))
 - Inequalities for Tsallis relative entropy and generalized skew information ([Linear Multilinear Algebra, 2011](https://www.tandfonline.com/doi/abs/10.1080/03081087.2011.574624))
 
@@ -186,6 +198,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Traditional and Accelerated Gradient Descent for Neural Architecture Search ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_55))
 - Recent Developments on the MTW Tensor ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_56))
 - Wasserstein Proximal of GANs ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_57))
+- Hessian Curvature and Optimal Transport ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_44))
 - Information geometry connecting Wasserstein distance and Kullback–Leibler divergence via the entropy-relaxed transportation problem ([Information Geometry, 2018](https://link.springer.com/article/10.1007/s41884-018-0002-8))
 
 ## Computational Information Geometry
@@ -199,6 +212,11 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Properties of Nonlinear Diffusion Equations on Networks and Their Geometric Aspects ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_79))
 - Rényi Relative Entropy from Homogeneous Kullback-Leibler Divergence Lagrangian ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_80))
 - Statistical Bundle of the Transport Model ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_81))
+- Topological Methods for Unsupervised Learning ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_35))
+- Geometry and Fixed-Rate Quantization in Riemannian Metric Spaces Induced by Separable Bregman Divergences ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_36))
+- The Statistical Minkowski Distances: Closed-Form Formula for Gaussian Mixture Models ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_37))
+- Parameter Estimation with Generalized Empirical Localization ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_38))
+- Properties of the Cross Entropy Between ARMA Processes ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_39))
 - Computational information geometry for binary classification of high-dimensional random tensors ([Entropy, 2018](https://www.mdpi.com/1099-4300/20/3/203))
 - Computational information geometry in statistics: theory and practice ([Entropy, 2014](https://www.mdpi.com/1099-4300/16/5/2454))
 - Computational Information Geometry and its Applications ([ICNNB, 2005](https://ieeexplore.ieee.org/abstract/document/1614550))

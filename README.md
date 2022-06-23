@@ -116,6 +116,8 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Diffusion kernels on statistical manifolds ([JMLR, 2005](https://www.jmlr.org/papers/volume6/lafferty05a/lafferty05a.pdf?fbclid=IwAR0nnU0pveoflyoS5msfIi5fcpZh8FQziAqaLICe1BWMZQcLe7uKT1kCI5A))
 
 ## Natural Gradients
+- Tractable structured natural-gradient descent using local parameterizations ([ICML, 2021](https://proceedings.mlr.press/v139/lin21e.html))
+- Marginalized Stochastic Natural Gradients for Black-Box Variational Inference ([ICML, 2021](https://proceedings.mlr.press/v139/ji21b.html))
 - Sinkhorn Natural Gradient for Generative Models ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/122e27d57ae8ecb37f3f1da67abb33cb-Abstract.html))
 - An Improved Analysis of (Variance-Reduced) Policy Gradient and Natural Policy Gradient Methods ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/56577889b3c1cd083b6d7b32d32f99d5-Abstract.html))
 - Natural Policy Gradient Primal-Dual Method for Constrained Markov Decision Processes ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/5f7695debd8cde8db5abcb9f161b49ea-Abstract.html))

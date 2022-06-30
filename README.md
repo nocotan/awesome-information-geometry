@@ -118,6 +118,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Diffusion kernels on statistical manifolds ([JMLR, 2005](https://www.jmlr.org/papers/volume6/lafferty05a/lafferty05a.pdf?fbclid=IwAR0nnU0pveoflyoS5msfIi5fcpZh8FQziAqaLICe1BWMZQcLe7uKT1kCI5A))
 
 ## Natural Gradients
+- Invariance properties of the natural gradient in overparametrised systems ([Information Geometry, 2022](https://link.springer.com/article/10.1007/s41884-022-00067-9))
 - Tractable structured natural-gradient descent using local parameterizations ([ICML, 2021](https://proceedings.mlr.press/v139/lin21e.html))
 - Marginalized Stochastic Natural Gradients for Black-Box Variational Inference ([ICML, 2021](https://proceedings.mlr.press/v139/ji21b.html))
 - Sinkhorn Natural Gradient for Generative Models ([NeurIPS, 2020](https://papers.nips.cc/paper/2020/hash/122e27d57ae8ecb37f3f1da67abb33cb-Abstract.html))
@@ -180,6 +181,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - On the Jensen–Shannon Symmetrization of Distances Relying on Abstract Means ([Entropy, 2019](https://www.mdpi.com/1099-4300/21/5/485/htm))
 
 ## Exponential and Mixture Families
+- On partial likelihood and the construction of factorisable transformations ([Information Geometry, 2022](https://link.springer.com/article/10.1007/s41884-022-00068-8))
 - On a convergence property of a geometrical algorithm for statistical manifolds ([ICONIP, 2019](https://link.springer.com/chapter/10.1007/978-3-030-36802-9_29))
 - Testing the Number and the Nature of the Components in a Mixture Distribution ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_32))
 - Sobolev Statistical Manifolds and Exponential Models ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_46))

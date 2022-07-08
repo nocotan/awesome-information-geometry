@@ -254,4 +254,6 @@ This repo is a collection of AWESOME things about information geometry, includin
 - International Conference on Geometric Science of Information ([GSI](https://link.springer.com/conference/gsi))
  
 # Workshops
+- Symmetry and Geometry in Neural Representations ([at NeurIPS 2022](https://sites.google.com/view/neur-reps/home))
+- TAG in Machine Learning ([at ICML 2022](https://www.tagds.com/events/conferences/tag-in-machine-learning))
 - Deep Learning through Information Geometry ([at NeurIPS 2020](https://sites.google.com/view/dl-info-neurips20))

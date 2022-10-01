@@ -52,6 +52,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry in optimization, machine learning and statistical inference ([Front. Electr. Electron. Eng. China, 2010](https://link.springer.com/article/10.1007/s11460-010-0101-3))
 
 ## Information Geometry for Neural Networks
+- A Reparametrization-Invariant Sharpness Measure Based on Information Geometry ([NeurIPS, 2022](https://nips.cc/Conferences/2022/Schedule?showEvent=53360))
 - IGAGCN: Information geometry and attention-based spatiotemporal graph convolutional networks for traffic flow prediction ([Neural Networks, 2021](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002318))
 - Catastrophic Fisher Explosion: Early Phase Fisher Matrix Impacts Generalization ([ICML, 2021](http://proceedings.mlr.press/v139/jastrzebski21a.html))
 - An Information-Geometric Distance on the Space of Tasks ([ICML, 2021](https://proceedings.mlr.press/v139/gao21a.html))

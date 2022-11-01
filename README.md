@@ -95,6 +95,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - The e-PCA and m-PCA: Dimension reduction of parameters by information geometry ([IJCNN, 2004](https://ieeexplore.ieee.org/abstract/document/1379884))
 
 ## Fisher Information Matrix
+- A Statistical Manifold Framework for Point Cloud Data ([ICML, 2022](https://proceedings.mlr.press/v162/lee22d.html))
 - On the Variance of the Fisher Information for Deep Learning ([NeurIPS, 2021](https://papers.nips.cc/paper/2021/hash/2d290e496d16c9dcaa9b4ded5cac10cc-Abstract.html))
 - On the Fisher-Rao Information Metric in the Space of Normal Distributions ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_70))
 - The Spectrum of the Fisher Information Matrix of a Single-Hidden-Layer Neural Network ([NeurIPS, 2018](https://papers.nips.cc/paper/2018/hash/18bb68e2b38e4a8ce7cf4f6b2625768c-Abstract.html))

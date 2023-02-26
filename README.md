@@ -52,6 +52,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry in optimization, machine learning and statistical inference ([Front. Electr. Electron. Eng. China, 2010](https://link.springer.com/article/10.1007/s11460-010-0101-3))
 
 ## Information Geometry for Neural Networks
+- Fisher-Legendre (FishLeg) optimization of deep neural networks  ([ICLR, 2023](https://openreview.net/forum?id=c9lAOPvQHS))
 - The Fisher–Rao loss for learning under label noise ([Information Geometry, 2022](https://link.springer.com/article/10.1007/s41884-022-00076-8))
 - A Reparametrization-Invariant Sharpness Measure Based on Information Geometry ([NeurIPS, 2022](https://nips.cc/Conferences/2022/Schedule?showEvent=53360))
 - IGAGCN: Information geometry and attention-based spatiotemporal graph convolutional networks for traffic flow prediction ([Neural Networks, 2021](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002318))
@@ -97,6 +98,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - The e-PCA and m-PCA: Dimension reduction of parameters by information geometry ([IJCNN, 2004](https://ieeexplore.ieee.org/abstract/document/1379884))
 
 ## Fisher Information Matrix
+- FIT: A Metric for Model Sensitivity ([ICLR, 2023](https://openreview.net/forum?id=PDG4-Y3aboN))
 - A Statistical Manifold Framework for Point Cloud Data ([ICML, 2022](https://proceedings.mlr.press/v162/lee22d.html))
 - On the Variance of the Fisher Information for Deep Learning ([NeurIPS, 2021](https://papers.nips.cc/paper/2021/hash/2d290e496d16c9dcaa9b4ded5cac10cc-Abstract.html))
 - On the Fisher-Rao Information Metric in the Space of Normal Distributions ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_70))
@@ -122,6 +124,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Diffusion kernels on statistical manifolds ([JMLR, 2005](https://www.jmlr.org/papers/volume6/lafferty05a/lafferty05a.pdf?fbclid=IwAR0nnU0pveoflyoS5msfIi5fcpZh8FQziAqaLICe1BWMZQcLe7uKT1kCI5A))
 
 ## Natural Gradients
+- Linear Convergence of Natural Policy Gradient Methods with Log-Linear Policies ([ICLR, 2023](https://openreview.net/forum?id=-z9hdsyUwVQ))
 - Invariance properties of the natural gradient in overparametrised systems ([Information Geometry, 2022](https://link.springer.com/article/10.1007/s41884-022-00067-9))
 - Tractable structured natural-gradient descent using local parameterizations ([ICML, 2021](https://proceedings.mlr.press/v139/lin21e.html))
 - Marginalized Stochastic Natural Gradients for Black-Box Variational Inference ([ICML, 2021](https://proceedings.mlr.press/v139/ji21b.html))
@@ -168,6 +171,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Integration of Stochastic Models by Minimizing $\alpha$-Divergence ([Neural Computation, 2007](https://ieeexplore.ieee.org/abstract/document/6795912))
 
 ## Bregman Divergence
+- Neural Bregman Divergences for Distance Learning ([ICLR, 2023](https://openreview.net/forum?id=nJ3Vx78Nf7p))
 - Transport information Bregman divergences ([Information Geometry, 2021](https://link.springer.com/article/10.1007/s41884-021-00063-5))
 - Target detection within nonhomogeneous clutter via total bregman divergence-based matrix information geometry detectors ([IEEE Trans. Signal Processing, 2021](https://ieeexplore.ieee.org/abstract/document/9479799))
 - The Bregman Chord Divergence ([GSI, 2019](https://link.springer.com/chapter/10.1007/978-3-030-26980-7_31))
@@ -204,6 +208,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Inequalities for Tsallis relative entropy and generalized skew information ([Linear Multilinear Algebra, 2011](https://www.tandfonline.com/doi/abs/10.1080/03081087.2011.574624))
 
 ## Transport Information Geometry
+- Riemannian Metric Learning via Optimal Transport ([ICLR, 2023](https://openreview.net/forum?id=v3y68gz-WEz))
 - Wasserstein information matrix ([Information Geometry, 2023](https://link.springer.com/article/10.1007/s41884-023-00099-9))
 - Wasserstein Statistics in One-Dimensional Location-Scale Models ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_54))
 - Traditional and Accelerated Gradient Descent for Neural Architecture Search ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_55))

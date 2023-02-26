@@ -52,6 +52,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry in optimization, machine learning and statistical inference ([Front. Electr. Electron. Eng. China, 2010](https://link.springer.com/article/10.1007/s11460-010-0101-3))
 
 ## Information Geometry for Neural Networks
+- The Fisher–Rao loss for learning under label noise ([Information Geometry, 2022](https://link.springer.com/article/10.1007/s41884-022-00076-8))
 - A Reparametrization-Invariant Sharpness Measure Based on Information Geometry ([NeurIPS, 2022](https://nips.cc/Conferences/2022/Schedule?showEvent=53360))
 - IGAGCN: Information geometry and attention-based spatiotemporal graph convolutional networks for traffic flow prediction ([Neural Networks, 2021](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002318))
 - Catastrophic Fisher Explosion: Early Phase Fisher Matrix Impacts Generalization ([ICML, 2021](http://proceedings.mlr.press/v139/jastrzebski21a.html))
@@ -73,6 +74,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Barycentric distribution estimation for texture clustering based on information-geometry tools ([ISETC, 2012](https://ieeexplore.ieee.org/abstract/document/6408132))
 
 ## Information Geometry for NMF
+- Non-negative low-rank approximations for multi-dimensional arrays on statistical manifold ([Information Geometry, 2023](https://link.springer.com/article/10.1007/s41884-023-00100-5))
 - Geometrical formulation of the nonnegative matrix factorization ([ICONIP, 2018](https://link.springer.com/chapter/10.1007/978-3-030-04182-3_46))
 - Generalized alpha-beta divergences and their application to robust nonnegative matrix factorization ([Entropy, 2011](https://www.mdpi.com/1099-4300/13/1/134))
 
@@ -202,6 +204,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Inequalities for Tsallis relative entropy and generalized skew information ([Linear Multilinear Algebra, 2011](https://www.tandfonline.com/doi/abs/10.1080/03081087.2011.574624))
 
 ## Transport Information Geometry
+- Wasserstein information matrix ([Information Geometry, 2023](https://link.springer.com/article/10.1007/s41884-023-00099-9))
 - Wasserstein Statistics in One-Dimensional Location-Scale Models ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_54))
 - Traditional and Accelerated Gradient Descent for Neural Architecture Search ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_55))
 - Recent Developments on the MTW Tensor ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_56))

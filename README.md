@@ -16,6 +16,7 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Information Geometry for MCMC](#information-geometry-for-mcmc)
   - [Information Geometry for HMM](#information-geometry-for-hmm)
   - [Information Geometry for Dimension Reduction](#information-geometry-for-dimension-reduction)
+  - [Information Geometry and Optimization](#information-geometry-and-optimization)
   - [Fisher Information Matrix](#fisher-information-matrix)
   - [Fisher Kernels](#fisher-kernels)
   - [Information Diffusion Kernels](#information-diffusion-kernels)
@@ -52,6 +53,11 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry in optimization, machine learning and statistical inference ([Front. Electr. Electron. Eng. China, 2010](https://link.springer.com/article/10.1007/s11460-010-0101-3))
 
 ## Information Geometry for Neural Networks
+- Group Equivariant Sparse Coding ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_10))
+- Can Generalised Divergences Help for Invariant Neural Networks? ([GSI, 2023](Can Generalised Divergences Help for Invariant Neural Networks?))
+- Continuous Kendall Shape Variational Autoencoders ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_8))
+- Functional Properties of PDE-Based Group Equivariant Convolutional Neural Networks ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_7))
+- A Neurogeometric Stereo Model for Individuation of 3D Perceptual Units ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_6))
 - Fisher-Legendre (FishLeg) optimization of deep neural networks  ([ICLR, 2023](https://openreview.net/forum?id=c9lAOPvQHS))
 - The Fisher–Rao loss for learning under label noise ([Information Geometry, 2022](https://link.springer.com/article/10.1007/s41884-022-00076-8))
 - A Reparametrization-Invariant Sharpness Measure Based on Information Geometry ([NeurIPS, 2022](https://nips.cc/Conferences/2022/Schedule?showEvent=53360))
@@ -96,6 +102,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Generalized t-SNE Through the Lens of Information Geometry ([IEEE Access, 2021](https://ieeexplore.ieee.org/abstract/document/9540693/))
 - Dimension Reduction for Mixtures of Exponential Families ([ICANN, 2008](https://link.springer.com/chapter/10.1007/978-3-540-87536-9_1))
 - The e-PCA and m-PCA: Dimension reduction of parameters by information geometry ([IJCNN, 2004](https://ieeexplore.ieee.org/abstract/document/1379884))
+
+## Information Geometry and Optimization
+- On a Cornerstone of Bare-Simulation Distance/Divergence Optimization ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_11))
 
 ## Fisher Information Matrix
 - FIT: A Metric for Model Sensitivity ([ICLR, 2023](https://openreview.net/forum?id=PDG4-Y3aboN))

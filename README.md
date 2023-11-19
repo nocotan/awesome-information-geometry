@@ -21,6 +21,7 @@ This repo is a collection of AWESOME things about information geometry, includin
   - [Fisher Kernels](#fisher-kernels)
   - [Information Diffusion Kernels](#information-diffusion-kernels)
   - [Natural Gradients](#natural-gradients)
+  - [Statistical Manifolds and Hessian Information Geometry](#statistical-manifolds-and-hessian-information-geometry)
   - [alpha-Divergence](#alpha-divergence)
   - [Bregman Divergence](#bregman-divergence)
   - [Jensen-Shannon Divergence](#jensen-shannon-divergence)
@@ -166,6 +167,8 @@ This repo is a collection of AWESOME things about information geometry, includin
 - A Natural Policy Gradient ([NeurIPS, 2001](https://papers.nips.cc/paper/2001/hash/4b86abe48d358ecf194c56c69108433e-Abstract.html))
 - Natural gradient descent for on-line learning ([PRL, 1998](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.5461))
 - Natural gradient works efficiently in learning ([Neural Computation, 1998](https://ieeexplore.ieee.org/abstract/document/6790500))
+
+## Statistical Manifolds and Hessian Information Geometry
 
 ## alpha-Divergence
 - Infinite-dimensional gradient-based descent for alpha-divergence minimisation ([Ann. Stat., 2021](https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-4/Infinite-dimensional-gradient-based-descent-for-alpha-divergence-minimisation/10.1214/20-AOS2035.short))

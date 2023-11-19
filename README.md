@@ -171,6 +171,9 @@ This repo is a collection of AWESOME things about information geometry, includin
 ## Statistical Manifolds and Hessian Information Geometry
 - On the Tangent Bundles of Statistical Manifolds ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_20))
 - Geometric Properties of Beta Distributions ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_21))
+- KV Cohomology Group of Some KV Structures on ℝ^2 ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_22))
+- Alpha-parallel Priors on a One-Sided Truncated Exponential Family ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_23))
+- Conformal Submersion with Horizontal Distribution and Geodesics ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_24))
 
 ## alpha-Divergence
 - Infinite-dimensional gradient-based descent for alpha-divergence minimisation ([Ann. Stat., 2021](https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-4/Infinite-dimensional-gradient-based-descent-for-alpha-divergence-minimisation/10.1214/20-AOS2035.short))

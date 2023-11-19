@@ -192,6 +192,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry of U-Boost and Bregman divergence ([Neural Computation, 2004](https://ieeexplore.ieee.org/document/6789609))
 
 ## Jensen-Shannon Divergence
+- Quasi-arithmetic Centers, Quasi-arithmetic Mixtures, and the Jensen-Shannon ∇-Divergences ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_15))
 - On a variational definition for the Jensen-Shannon symmetrization of distances based on the information radius ([Entropy, 2021](https://www.mdpi.com/1099-4300/23/4/464))
 - $\alpha$-Geodesical Skew Divergence ([Entropy, 2021](https://www.mdpi.com/1099-4300/23/5/528))
 - On a generalization of the Jensen–Shannon divergence and the Jensen–Shannon centroid ([Entropy, 2020](https://www.mdpi.com/1099-4300/22/2/221))
@@ -227,6 +228,10 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry connecting Wasserstein distance and Kullback–Leibler divergence via the entropy-relaxed transportation problem ([Information Geometry, 2018](https://link.springer.com/article/10.1007/s41884-018-0002-8))
 
 ## Computational Information Geometry
+- λ-Deformed Evidence Lower Bound (λ-ELBO) Using Rényi and Tsallis Divergence ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_19))
+- On the f-Divergences Between Hyperboloid and Poincaré Distributions ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_18))
+- Geometry of Parametric Binary Choice Models ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_16))
+- A q-Analogue of the Family of Poincaré Distributions on the Upper Half Plane ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_17))
 - Computing Statistical Divergences with Sigma Points ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_72))
 - Remarks on Laplacian of Graphical Models in Various Graphs ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_73))
 - Classification in the Siegel Space for Vectorial Autoregressive Data ([GSI, 2021](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_74))

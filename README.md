@@ -54,6 +54,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Information geometry in optimization, machine learning and statistical inference ([Front. Electr. Electron. Eng. China, 2010](https://link.springer.com/article/10.1007/s11460-010-0101-3))
 
 ## Information Geometry for Neural Networks
+- A Rate-Distortion View of Uncertainty Quantification ([ICML, 2024](https://arxiv.org/abs/2406.10775v2))
 - Riemannian SAM: Sharpness-Aware Minimization on Riemannian Manifolds ([NeurIPS, 2023](https://openreview.net/forum?id=strvrjSi3C))
 - The Geometry of Neural Nets' Parameter Spaces Under Reparametrization ([NeurIPS, 2023](https://openreview.net/forum?id=vtLNwa6uX0))
 - Group Equivariant Sparse Coding ([GSI, 2023](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_10))

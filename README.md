@@ -65,6 +65,7 @@ This repo is a collection of AWESOME things about information geometry, includin
 - Fisher-Legendre (FishLeg) optimization of deep neural networks  ([ICLR, 2023](https://openreview.net/forum?id=c9lAOPvQHS))
 - The Fisher–Rao loss for learning under label noise ([Information Geometry, 2022](https://link.springer.com/article/10.1007/s41884-022-00076-8))
 - A Reparametrization-Invariant Sharpness Measure Based on Information Geometry ([NeurIPS, 2022](https://nips.cc/Conferences/2022/Schedule?showEvent=53360))
+- The Information Geometry of Unsupervised Reinforcement Learning ([ICLR, 2022](https://arxiv.org/abs/2110.02719))
 - IGAGCN: Information geometry and attention-based spatiotemporal graph convolutional networks for traffic flow prediction ([Neural Networks, 2021](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002318))
 - Catastrophic Fisher Explosion: Early Phase Fisher Matrix Impacts Generalization ([ICML, 2021](http://proceedings.mlr.press/v139/jastrzebski21a.html))
 - An Information-Geometric Distance on the Space of Tasks ([ICML, 2021](https://proceedings.mlr.press/v139/gao21a.html))
